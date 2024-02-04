@@ -1,0 +1,7 @@
+
+1.在项目文件夹内右键 git bash
+
+2.执行以下命令
+git add .
+git commit -m "注释啥的"
+git push origin master
